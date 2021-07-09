@@ -1,6 +1,6 @@
 # PHP Login
 
-El proyecto consiste en un formulario de SignUp o de Login. En caso de que el usuario no este registrado da un mensaje informandolo. 
+El proyecto consiste en un formulario de SignUp y de Login. En caso de que el usuario no este registrado da un mensaje informandolo. 
 Lo mismo ocurre para el caso en que la contraseña ingresada no sea la correcta.
 
 # Tecnologías usadas
